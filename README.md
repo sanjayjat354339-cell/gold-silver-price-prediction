@@ -1,3 +1,5 @@
+## 🌐 Live Demo
+https://gold-silver-price-prediction-33mkwvserlqin569rpk8ly.streamlit.app
 # Gold & Silver Price Prediction
 
 This project uses Machine Learning techniques to predict gold and silver prices based on historical data.
