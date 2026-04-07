@@ -77,7 +77,7 @@ features = [
     "Volatility7", "Trend",
     "RSI", "TrendStrength"
 ]
-
+df=df.dropna()
 X = df[features].values
 y = df["Target"].values
 
